@@ -19,4 +19,9 @@ i. Title ii. Discription (Optional) iii. Start date iv. End Date v. Priority</dd
 <dt>5. Create a New Task</dt>
 i. Title ii. Discription iii. Category: iv. Milestone: v. Priority: vi. Visibility: vii. Due On: viii. Estimate: ix. Label: x. Assignees:</dd>	
 
+<dt>Time Tracking</dt>
+
+**Note:** All the actions should be notified as an Email.
+
+
 </dl>
