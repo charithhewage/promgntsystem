@@ -5,33 +5,36 @@ This is a prototype for a Project management System Based on Drupal 7. Here I ha
 
 Basic tasks schedule for this Project.
 --------------------------------------
+<dl>
 
-1. Create a Organization/ Company.
-	Name
-	Website
-	Description (optional)
-	Add avator
+<dt>1. Create a Organization/ Company. </dt>
+	<dd>Name</dd>
+	<dd>Website</dd>
+	<dd>Description (optional)</dd>
+	<dd>Add avator</dd>
 
-2. Add People to the Company
-	Name
-	Nickname
-	Email 
-	Contact No.
+<dt>2. Add People to the Company</dt>
+	<dd>Name</dd>
+	<dd>Nickname</dd>
+	<dd>Email </dd>
+	<dd>Contact No.</dd>
 
-3. Creating a New Project.
-	Title
-	Discription (Optional)
-	Start
-	End 
-4. Asigning People
-5. Create a New Task
-	Title
-	Discription
-	Category:
-	Milestone:
-	Priority:
-	Visibility:
-	Due On:
-	Estimate:
-	Label:
-	Assignees:	
+<dt>3. Creating a New Project.</dt>
+	<dd>Title</dd>
+	<dd>Discription (Optional)</dd>
+	<dd>Start</dd>
+	<dd>End </dd>
+<dt>4. Asigning People</dt>
+<dt>5. Create a New Task</dt>
+	<dd>Title</dd>
+	<dd>Discription</dd>
+	<dd>Category:</dd>
+	<dd>Milestone:</dd>
+	<dd>Priority:</dd>
+	<dd>Visibility:</dd>
+	<dd>Due On:</dd>
+	<dd>Estimate:</dd>
+	<dd>Label:</dd>
+	<dd>Assignees:</dd>	
+
+</dl>
