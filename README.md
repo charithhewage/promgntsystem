@@ -8,33 +8,15 @@ Basic tasks schedule for this Project.
 <dl>
 
 <dt>1. Create a Organization/ Company. </dt>
-	Name
-Website
-Description (optional)
-Add avator
+i. Name	ii. Website iii. Description (optional) iv. Add avator
 
 <dt>2. Add People to the Company</dt>
-	<dd>Name</dd>
-	<dd>Nickname</dd>
-	<dd>Email </dd>
-	<dd>Contact No.</dd>
+i. Name ii. Nickname iii. Email iv. Contact No.
 
 <dt>3. Creating a New Project.</dt>
-	<dd>Title</dd>
-	<dd>Discription (Optional)</dd>
-	<dd>Start</dd>
-	<dd>End </dd>
+i. Title ii. Discription (Optional) iii. Start date iv. End Date v. Priority</dd>
 <dt>4. Asigning People</dt>
 <dt>5. Create a New Task</dt>
-	<dd>Title</dd>
-	<dd>Discription</dd>
-	<dd>Category:</dd>
-	<dd>Milestone:</dd>
-	<dd>Priority:</dd>
-	<dd>Visibility:</dd>
-	<dd>Due On:</dd>
-	<dd>Estimate:</dd>
-	<dd>Label:</dd>
-	<dd>Assignees:</dd>	
+i. Title ii. Discription iii. Category: iv. Milestone: v. Priority: vi. Visibility: vii. Due On: viii. Estimate: ix. Label: x. Assignees:</dd>	
 
 </dl>
