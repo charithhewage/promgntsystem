@@ -8,10 +8,10 @@ Basic tasks schedule for this Project.
 <dl>
 
 <dt>1. Create a Organization/ Company. </dt>
-	<dd>Name</dd>
-	<dd>Website</dd>
-	<dd>Description (optional)</dd>
-	<dd>Add avator</dd>
+Name
+Website
+Description (optional)
+Add avator
 
 <dt>2. Add People to the Company</dt>
 	<dd>Name</dd>
